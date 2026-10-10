@@ -1,0 +1,60 @@
+# HIKARI: a Mega Man Battle Network theme for Omarchy.
+# Colors are sampled from game pixels (GBA sprite and tile rips, 15-bit
+# values) or from Capcom's official art. Sources are listed in README.md.
+mode = "dark"
+
+# MegaMan.EXE's armor highlight (BN5-6 battle sprite)
+accent = "#18c0f8"
+# MegaMan's bodysuit indigo (BN5-6 battle sprite)
+selection = "#203080"
+# PET / HUD slate (BN4-5 HP box #385068), lifted for legibility
+muted = "#4c6a8a"
+
+# The Net: cyberworld navy (BN4 Town Area void #001038, anime cyberworld #10112c)
+background = "#0d1430"
+dark_background = "#0a0f26"
+darker_background = "#070a1c"
+# MegaMan's bodysuit navy (BN1-3 battle sprite #102858)
+lighter_background = "#142050"
+
+# PET screen text: light #c8e0f8 and white #f0f8f8 (BN3-5 HUD)
+foreground = "#c8e0f8"
+# BN3 White PET menu / BN4 Custom Screen periwinkle
+dark_foreground = "#6070c0"
+light_foreground = "#dceaf8"
+bright_foreground = "#f0f8f8"
+
+# Window borders: MegaMan's armor blue into his helmet gold;
+# inactive windows use the BN6 Navi Customizer grid lines
+hyprland_active_border = "rgba(18c0f8ee) rgba(f0c800ee) 45deg"
+hyprland_inactive_border = "rgba(284068aa)"
+
+# Player-side battle panel red (BN2/BN3 panel frame)
+red = "#f86060"
+# Helmet and Navi emblem gold (identical in every game)
+yellow = "#f0c800"
+# Lan Hikari's vest (BN6 overworld sprite)
+orange = "#f87020"
+# Wood element icon
+green = "#30c858"
+# Jack-in beam (BN1-3 overworld sheet)
+cyan = "#58e8d8"
+# Aqua element icon
+blue = "#5880f8"
+# Dark Chip class stamp (BN5)
+magenta = "#b078f8"
+# Lan's hair (BN6 overworld sprite)
+brown = "#804840"
+
+# Legacy Collection coral (official site)
+bright_red = "#ff7974"
+# Elec element icon
+bright_yellow = "#f8f028"
+# Wood Style highlight (BN2/BN3)
+bright_green = "#90f060"
+# Jack-in beam, light
+bright_cyan = "#98f8e8"
+# Aqua Style highlight (BN2/BN3)
+bright_blue = "#90b0f8"
+# Navi Customizer pink program (BN6)
+bright_magenta = "#f8a8e0"

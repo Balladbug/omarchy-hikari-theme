@@ -1,0 +1,55 @@
+Pack ID	Name (pack label)	Game (inferred from pack order + match to VGMaps backdrop)	Top colors, GBA-snapped (share of frame 0)	File
+2	Generic Area	BN1	#280080 66.6%  #682868 17.5%  #300078 2.3%  #481870 1.7%  #481070 1.7%  #300878 1.7%	battle-ui/battle-bg/bg002_Generic_Area.png
+3	Internet Area	BN1	#F8A880 50.0%  #F8B088 35.8%  #B0C050 5.1%  #988048 3.6%  #A89848 1.8%  #B0B030 1.5%	battle-ui/battle-bg/bg003_Internet_Area.png
+4	Lan's HP	BN1	#003868 65.9%  #90D8D8 16.8%  #588080 2.8%  #385050 2.3%  #406868 2.1%  #80B8B8 1.9%	battle-ui/battle-bg/bg004_Lans_HP.png
+11	Gospel HQ	BN2	#000000 86.6%  #680000 8.9%  #380000 1.1%  #580000 1.0%  #180000 0.7%  #400000 0.6%	battle-ui/battle-bg/bg011_Gospel_HQ.png
+13	Koto Area	BN2	#F89800 73.0%  #F80800 15.6%  #F86000 1.6%  #F84800 1.3%  #F88000 1.2%  #F81800 1.1%	battle-ui/battle-bg/bg013_Koto_Area.png
+14	Koto Square	BN2	#F8A000 67.9%  #F87820 3.9%  #F848E0 3.7%  #F88010 3.5%  #F85038 3.5%  #F0D000 3.1%	battle-ui/battle-bg/bg014_Koto_Square.png
+17	Netopia Area	BN2	#986878 56.6%  #909868 10.0%  #707070 7.1%  #986868 5.5%  #707068 4.2%  #787870 3.5%	battle-ui/battle-bg/bg017_Netopia_Area.png
+19	NetSquare	BN2	#0048B0 81.4%  #B8B858 11.7%  #507880 1.6%  #809870 0.9%  #306098 0.8%  #487088 0.7%	battle-ui/battle-bg/bg019_NetSquare.png
+21	SciLab	BN2	#080008 79.7%  #989898 2.5%  #E8F0F8 2.3%  #D0D8E8 2.2%  #C8C8C8 2.2%  #101828 1.9%	battle-ui/battle-bg/bg021_SciLab.png
+22	WWW	BN2	#F8F8F8 80.2%  #F81010 13.4%  #F88080 1.3%  #F8D0D0 0.9%  #F8B8B8 0.8%  #F82828 0.8%	battle-ui/battle-bg/bg022_WWW.png
+23	YumLand	BN2	#58B050 75.0%  #58D080 15.2%  #58C878 2.6%  #58C068 2.6%  #58B860 1.4%  #58B058 1.1%	battle-ui/battle-bg/bg023_YumLand.png
+25	YumSquare	BN2	#808810 76.4%  #006800 7.4%  #106800 2.4%  #186800 2.2%  #207000 2.0%  #387000 1.6%	battle-ui/battle-bg/bg025_YumSquare.png
+27	ACDC	BN3	#202810 77.6%  #40A850 9.5%  #204020 7.4%  #286830 5.4%	battle-ui/battle-bg/bg027_ACDC.png
+28	ACDC Square	BN3	#202848 77.6%  #C88000 9.5%  #503020 7.4%  #984018 5.4%	battle-ui/battle-bg/bg028_ACDC_Square.png
+36	SciLab	BN3	#000000 83.7%  #104878 6.3%  #181038 6.0%  #102858 3.9%	battle-ui/battle-bg/bg036_SciLab.png
+38	Yoka	BN3	#580810 92.9%  #606800 7.1%	battle-ui/battle-bg/bg038_Yoka.png
+44	ACDC Area	BN4	#0000A0 56.3%  #007890 7.0%  #005098 6.7%  #008800 6.5%  #C8E858 6.3%  #00A090 4.4%	battle-ui/battle-bg/bg044_ACDC_Area.png
+50	Net Africa Area	BN4	#F88800 56.3%  #A8E050 8.0%  #D86800 7.0%  #E87800 6.7%  #B03000 6.5%  #D05800 4.4%	battle-ui/battle-bg/bg050_Net_Africa_Area.png
+51	Netopia Area	BN4	#604800 56.3%  #C8C8A8 7.3%  #904000 7.0%  #884000 6.7%  #D05000 6.5%  #A04000 4.4%	battle-ui/battle-bg/bg051_Netopia_Area.png
+52	Park Area	BN4	#00E0F8 56.3%  #60E8B8 7.0%  #30E0D8 6.7%  #50A0E0 6.5%  #F8C8C8 6.2%  #90F098 4.4%	battle-ui/battle-bg/bg052_Park_Area.png
+53	Sharo Area	BN4	#405060 56.3%  #98D0A0 8.0%  #586078 7.0%  #485870 6.7%  #9888B0 6.5%  #686888 4.4%	battle-ui/battle-bg/bg053_Sharo_Area.png
+55	Town Area	BN4	#001038 56.3%  #4898F8 7.3%  #303890 7.0%  #183060 6.7%  #303058 6.5%  #4840A8 4.4%	battle-ui/battle-bg/bg055_Town_Area.png
+58	YumLand Area	BN4	#005800 56.3%  #B8E0C0 7.7%  #288018 7.0%  #186808 6.7%  #C8A848 6.5%  #509020 4.4%	battle-ui/battle-bg/bg058_YumLand_Area.png
+59	ACDC Area	BN5	#000000 93.1%  #0010F8 3.5%  #000098 1.6%  #000068 1.6%  #5088F8 0.2%	battle-ui/battle-bg/bg059_ACDC_Area.png
+61	End Area	BN5	#500000 95.9%  #A00000 1.8%  #007800 1.8%  #800000 0.2%  #005800 0.2%	battle-ui/battle-bg/bg061_End_Area.png
+69	Oran Area	BN5	#000000 95.1%  #E00000 2.2%  #900000 2.2%  #A87010 0.2%  #684000 0.2%	battle-ui/battle-bg/bg069_Oran_Area.png
+70	SciLab	BN5	#0088F8 91.9%  #A8E080 3.0%  #70C0A8 2.7%  #38A0D0 2.3%	battle-ui/battle-bg/bg070_SciLab.png
+73	Soul Server Comp	BN5	#080808 81.9%  #780000 9.1%  #580000 4.2%  #380000 2.9%  #180000 2.0%	battle-ui/battle-bg/bg073_Soul_Server_Comp.png
+75	ACDC Area	BN6	#4000A8 62.2%  #005810 14.4%  #00A8A0 6.2%  #00B8A8 4.9%  #009088 4.6%  #78A0F8 2.3%	battle-ui/battle-bg/bg075_ACDC_Area.png
+78	Central Area	BN6	#000050 62.2%  #003850 14.4%  #2020D8 6.2%  #1848E0 4.9%  #2000C0 4.6%  #1078F8 2.3%	battle-ui/battle-bg/bg078_Central_Area.png
+81	Green Area	BN6	#006048 62.2%  #983078 14.4%  #009880 6.9%  #00B088 6.2%  #58D800 4.9%  #A84890 1.9%	battle-ui/battle-bg/bg081_Green_Area.png
+86	Seaside Area	BN6	#60F0E8 62.2%  #7850D8 14.4%  #C0B0F0 6.2%  #D0C0F0 4.9%  #A898F0 4.6%  #F8C0F8 2.3%	battle-ui/battle-bg/bg086_Seaside_Area.png
+87	Sky Area	BN6	#0000F0 62.2%  #A898B8 14.4%  #60A8F8 6.2%  #B8C8E8 4.9%  #5098E8 4.6%  #D8E0F8 2.3%	battle-ui/battle-bg/bg087_Sky_Area.png
+91	Graveyard	BN6	#000040 69.2%  #302848 7.0%  #283048 6.1%  #004068 5.5%  #105040 4.5%  #186050 2.8%	battle-ui/battle-bg/bg091_Graveyard.png
+94	WWW	BN6?	#000000 82.4%  #381818 2.8%  #181848 2.1%  #683828 1.8%  #F8C068 1.7%  #B08050 1.6%	battle-ui/battle-bg/bg094_WWW.png
+107	Den Area	BN2	#303040 48.7%  #004030 19.6%  #005028 12.1%  #006820 6.1%  #006028 4.8%  #007818 4.4%	battle-ui/battle-bg/bg107_Den_Area.png
+108	Den Battle	BN2	#000000 78.5%  #009800 11.7%  #006000 5.1%  #003800 4.3%  #00B000 0.4%	battle-ui/battle-bg/bg108_Den_Battle.png
+115	UnderNet	BN2	#383838 50.0%  #282828 50.0%	battle-ui/battle-bg/bg115_UnderNet.png
+116	UnderNet Square	BN2	#000000 36.8%  #483858 11.2%  #484848 8.9%  #505050 8.6%  #402830 6.7%  #404040 6.2%	battle-ui/battle-bg/bg116_UnderNet_Square.png
+118	Beach	BN3	#0000F0 90.0%  #7860C8 2.7%  #5878D0 2.7%  #4818A8 2.4%  #3890D8 2.2%	battle-ui/battle-bg/bg118_Beach.png
+119	Hades Isle	BN3	#380000 67.8%  #401000 11.3%  #582008 9.0%  #703010 6.4%  #884020 3.7%  #985028 1.7%	battle-ui/battle-bg/bg119_Hades_Isle.png
+122	Secret Area	BN3	#20B8F0 34.9%  #28C0F8 30.0%  #18B0F0 14.8%  #30C8F8 13.6%  #30C0F8 2.0%  #38C8F8 1.9%	battle-ui/battle-bg/bg122_Secret_Area.png
+123	Secret Battle	BN3	#A0D0E8 70.3%  #88A8F8 13.4%  #88C0F8 2.8%  #88C8F8 2.7%  #88B8F8 2.5%  #D8D0D0 2.3%	battle-ui/battle-bg/bg123_Secret_Battle.png
+124	UnderNet	BN3	#282828 50.4%  #585858 45.7%  #787878 3.9%	battle-ui/battle-bg/bg124_UnderNet.png
+125	Black Earth	BN4	#000000 78.3%  #082820 8.1%  #104030 6.2%  #185040 4.9%  #206850 2.2%  #288060 0.2%	battle-ui/battle-bg/bg125_Black_Earth.png
+130	UnderNet	BN4	#384048 30.9%  #203030 30.5%  #102018 13.3%  #001000 8.6%  #680000 2.7%  #000078 2.7%	battle-ui/battle-bg/bg130_UnderNet.png
+131	Enemy Area	BN5	#080808 77.3%  #280810 10.9%  #180808 6.2%  #880098 3.1%  #680070 2.3%	battle-ui/battle-bg/bg131_Enemy_Area.png
+132	Nebula Area	BN5	#081018 75.0%  #284050 10.9%  #301068 3.9%  #303878 2.3%  #0078B8 2.3%  #0038B8 2.3%	battle-ui/battle-bg/bg132_Nebula_Area.png
+133	UnderNet	BN5	#484030 71.9%  #280800 18.8%  #605050 5.5%  #705058 1.6%  #C85000 0.8%  #302818 0.8%	battle-ui/battle-bg/bg133_UnderNet.png
+134	VisionBurst	BN5	#000000 76.6%  #00F810 23.4%	battle-ui/battle-bg/bg134_VisionBurst.png
+135	Underground	BN6	#386030 27.3%  #001048 27.3%  #204028 20.3%  #100038 19.5%  #B000A8 1.6%  #00A000 1.6%	battle-ui/battle-bg/bg135_Underground.png
+136	UnderNet	BN6	#702868 27.3%  #380050 27.3%  #500060 20.3%  #080808 19.5%  #C81000 1.6%  #00A000 1.6%	battle-ui/battle-bg/bg136_UnderNet.png
+149	Nebula Gray	BN5?	#480000 91.8%  #580020 1.1%  #681040 1.0%  #D06868 1.0%  #184810 0.9%  #083810 0.9%	battle-ui/battle-bg/bg149_Nebula_Gray.png
+150	Falzar/Gregar Battle	BN6	#B01088 37.3%  #A808A0 37.3%  #A008A8 11.9%  #9808B8 6.5%  #9800C0 4.5%  #8800C8 1.9%	battle-ui/battle-bg/bg150_Falzar_Gregar_Battle.png
