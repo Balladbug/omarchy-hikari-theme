@@ -68,6 +68,20 @@ omarchy-plymouth-set-by-theme hikari
 
 This needs sudo and rebuilds the boot image.
 
+## Claude Code theme (optional)
+
+`claude/` holds hikari-claude, a matching theme for
+[Claude Code](https://claude.com/claude-code). Installing HIKARI does not turn
+it on. Run its installer when you want it:
+
+```bash
+~/.config/omarchy/themes/hikari/claude/install.sh
+```
+
+It also works on a machine without Omarchy: clone this repo anywhere and run
+`claude/install.sh`. It needs only `bash` and `jq`. See
+[claude/README.md](claude/README.md) for details and its palette.
+
 ## Palette
 
 "Exact" means the value was taken from a GBA sprite or tile rip, which stores
@@ -131,6 +145,7 @@ The measured color tables are in `tools/palette-research/`:
 | `tools/palette_check.py` | Prints WCAG contrast for every key in a `colors.toml`, and the closest pairs of terminal colors |
 | `tools/render_preview.py` | Renders `preview.png`, a mock Omarchy desktop, from a `colors.toml` |
 | `tools/emblem.py` | Draws the vector Navi emblem used for `unlock.png` |
+| `claude/build.py` | Rebuilds the Claude Code theme from `colors.toml` |
 
 ## Credits and licensing
 
